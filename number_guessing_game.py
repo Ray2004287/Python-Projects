@@ -1,5 +1,5 @@
 import random
-secret_number = random.randint(1,10)
+secret_number = random.randint(1,100)
 max_treis = 5
 tries = 0
 
